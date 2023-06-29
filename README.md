@@ -80,7 +80,7 @@ Please make sure to install the required dependencies before running the code. â
 
 ## Citation ðŸ“„
 
-Please cite our paper using the bibtex below:
+Please cite our paper using the bibtex below if you found that our paper is useful to you:
 
 ```bibtex
 @inproceedings{lyu2023dialogue,
