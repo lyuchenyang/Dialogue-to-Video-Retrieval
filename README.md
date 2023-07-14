@@ -38,10 +38,7 @@ This repository presents a novel dialogue-to-video retrieval system that incorpo
 
 To run the system, you need to download the AVSD dataset. The dataset is available at the following links:
 
-- [avsd_train.json](https://video-dialog.com/avsd_train.json)
-- [avsd_val.json](https://video-dialog.com/avsd_val.json)
-- [train_options.json](https://video-dialog.com/train_options.json)
-- [val_options.json](https://video-dialog.com/val_options.json)
+- [avsd dataset](https://drive.google.com/file/d/1P9gmqJFsxuimp_BENLy0Tp98MdGqelIL/view?usp=sharing)
 
 In addition, you also need to download the original videos from the Charades dataset. The videos can be downloaded from [this link](https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_v1_480.zip).
 
